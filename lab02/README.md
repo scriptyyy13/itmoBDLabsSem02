@@ -39,3 +39,4 @@ c) Н_СЕССИЯ.ЧЛВК_ИД > 126631.
 ```
 
 - [**ОТЧЁТ**](https://docs.google.com/document/d/1eEy2bAcz3W5UTOO0l1dHP7dsCs-nWVHFsNTHlBwsHqI/edit?usp=sharing)
+- [**Все запросы в файле .sql**](requests.sql)
